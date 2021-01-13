@@ -1,6 +1,6 @@
 # Bloo
 ICS3U term project 2020
-A collaboration with @stuartfong1
+A collaboration with @stuartfong1, 
 Python program using the pygame library
 _______________________________________________________________________________________________________________________________________
 Bloo the brave space explorer has crashed onto a distant planet! To help him out:
